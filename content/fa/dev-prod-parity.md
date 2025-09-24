@@ -63,7 +63,7 @@
      <td>حافظه پنهان</td>
      <td>Ruby/Rails</td>
      <td>ActiveSupport::Cache</td>
-     <td>حافظه، سیستم فایل، Memcached</td>
+     <td>Memory، filesystem، Memcached</td>
    </tr>
 </table>
 
